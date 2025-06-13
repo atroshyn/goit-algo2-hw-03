@@ -4,7 +4,6 @@
 
 ### Результати
 Максимальний потік у мережі: 115
-
 Потоки між терміналами та магазинами:
 
 | Термінал  | Магазин  | Фактичний Потік (одиниць) |
@@ -42,6 +41,8 @@
 ## Завдання 2
 
 Виконання діапазонних запитів по OOBTree...
-Total range_query time for OOBTree: 0.000601 seconds
+Total range_query time for OOBTree: 0.000601 seconds (ШВИДШЕ)
+
+
 Виконання діапазонних запитів по Dict...
-Total range_query time for Dict: 0.002204 seconds
+Total range_query time for Dict: 0.002204 seconds (ПОВІЛЬНІШЕ)
